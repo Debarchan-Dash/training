@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 My first collaboration, with new changes now!!
+=======
+My first collaboration
+additional change
+>>>>>>> 47f9739120402b1938eb7d731edf3526b4a85dec
